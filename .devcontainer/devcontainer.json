@@ -7,7 +7,15 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"njpwerner.autodocstring"
+				"njpwerner.autodocstring",
+				"ms-python.python",
+				"ms-python.vscode-python-envs",
+				"ms-python.debugpy",
+				"ms-python.vscode-pylance",
+				"ms-toolsai.jupyter",
+				"GitHub.copilot-chat",
+				"GitHub.copilot",
+				"alexcvzz.vscode-sqlite"
 			]
 		}
 	}
