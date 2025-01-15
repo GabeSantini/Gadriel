@@ -1,7 +1,6 @@
 {
     "recommendations": [
         "donjayamanne.python-extension-pack",
-        "alexcvzz.vscode-sqlite",
         "njpwerner.autodocstring",
         "github.copilot",
         "github.copilot-chat",
