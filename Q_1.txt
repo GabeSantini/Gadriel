@@ -1,0 +1,63 @@
+Please create a workspace that contains a project folder with readme, license, Docs, Src, DB and Dev as root.
+
+The Docs Should contain base template for MkDocs
+
+Dev should contain Docker File base template, python .venv and vscode Workspace setting file with vscode recommendations file
+
+create the following module structure for a python module under Src :
+
+src
+    Queries
+        Budget
+    Utils
+        os
+        env
+    Views
+        Financials
+            Budget
+        Health
+
+Further action,
+    The budget view under finantials should contain the following dash app structure:
+
+        |-- app.py
+        |-- assets
+        |   |-- styles.css
+        |-- components
+        |   |-- __init__.py
+        |   |-- layout.py
+        |   |-- callbacks.py
+
+
+    Budget in query  file should contain main class component of python module structure
+
+
+
+Folder Structure
+
+
+
+Backend
+
+src
+    Queries
+    Utils
+        os
+        env
+    Views
+        Financials
+        Health
+
+
+
+
+
+Front End
+
+|-- app.py
+|-- assets
+|   |-- styles.css
+|-- components
+|   |-- __init__.py
+|   |-- layout.py
+|   |-- callbacks.py
