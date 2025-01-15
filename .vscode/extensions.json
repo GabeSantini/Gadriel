@@ -1,5 +1,15 @@
 {
     "recommendations": [
-        "donjayamanne.python-extension-pack"
+        "donjayamanne.python-extension-pack",
+        "alexcvzz.vscode-sqlite",
+        "njpwerner.autodocstring",
+        "github.copilot",
+        "github.copilot-chat",
+        "ms-toolsai.jupyter",
+        "github.vscode-pull-request-github",
+        "ms-python.vscode-pylance",
+        "ms-python.python",
+        "ms-python.debugpy",
+        "ms-python.vscode-python-envs"
     ]
 }

@@ -15,7 +15,8 @@
 				"ms-toolsai.jupyter",
 				"GitHub.copilot-chat",
 				"GitHub.copilot",
-				"alexcvzz.vscode-sqlite"
+				"alexcvzz.vscode-sqlite",
+				"GitHub.vscode-pull-request-github"
 			]
 		}
 	}
