@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": ".venv/bin/python",
+    "recommendations": [
+        "ms-python.python",
+        "ms-azuretools.vscode-docker"
+    ]
+}
